@@ -11,7 +11,7 @@ venv/
 .env.*
 
 # Input & Output data
-output_files/*
+output/*
 
 # Logs
 *.log
