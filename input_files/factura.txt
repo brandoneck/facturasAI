@@ -1,0 +1,25 @@
+FACTURA
+
+Folio: A-10293
+Fecha de emisión: 15/02/2026
+
+Emisor:
+Comercializadora del Bajío S.A. de C.V.
+RFC: CBA120305KJ2
+Dirección: Av. Independencia 1234, Aguascalientes, Ags.
+
+Receptor:
+Nombre: Juan Pérez Martínez
+RFC: PEJJ900101ABC
+Dirección: Calle Los Pinos 456, Aguascalientes, Ags.
+
+Conceptos:
+1 x Servicio de desarrollo web     $8,500.00
+1 x Mantenimiento mensual           $1,200.00
+
+Subtotal: $9,700.00
+IVA (16%): $1,552.00
+
+Total: $11,252.00 MXN
+
+Método de pago: Transferencia bancaria
